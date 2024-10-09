@@ -4,7 +4,8 @@ const cors = require('cors');
 const fs = require('fs');
 
 const app = express();
-const PORT = 3000;
+const host = '127.0.0.1';
+const port = 3001;
 
 
 app.use(cors());
@@ -53,6 +54,6 @@ app.post('/login', (req, res) => {
   res.json({ message: 'Login exitoso' });
 });
 
-app.listen(PORT, () => {
-  console.log(`Servidor corriendo en el puerto ${PORT}`);
+app.listen(port, host, () => {
+    console.log(`Server running at http://${host}:${port}/`);
 });
