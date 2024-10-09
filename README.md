@@ -8,7 +8,7 @@
 | #   | Nombre                                                                  | Carnet    |
 | --- | ----------------------------------------------------------------------- | --------- |
 | 1   | [Brandol Iván Muñoz Debroy](https://github.com/ivarunimo)               | 201700890 |
-| 2   | [Hesban Amilcar Argueta Aguilar](https://github.com/Hes-007)            | 201944994 |
+| 2   | [Hesban Amilcar Argueta Aguilar](https://github.com/Hes-007)            | 201704787 |
 | 3   | [Rivaldo Alexander Tojín Ixcotoyac](https://github.com/rivalTj7)        | 201900956 |
 | 4   | [Josué Daniel Rojché García](https://github.com/DanielGarcia-201901103) | 201901103 |
 | 5   | [Kevin Estuardo Palacios Quiñonez](https://github.com/KevinPalaciosQ)   | 201902278 |
