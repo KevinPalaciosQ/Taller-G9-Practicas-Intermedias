@@ -1,0 +1,38 @@
+SERVIDOR PYTHON
+******************** FLASK *************************************
+https://flask.palletsprojects.com/en/3.0.x/
+
+
+configurar venv 
+py -3 -m venv .venv
+.venv\Scripts\activate
+
+
+pip install flask
+pip install flask-cors
+******************** GPIO *************************************
+pip install RPi.GPIO
+
+******************** EJECUTAR PROGRAMA *************************************
+flask --app app run --debug 
+
+
+
+FRONTEND CON REACT
+
+*********************** INSTALACIÓN **************************************
+npx create-react-app front
+cd front
+npm install @mui/material @emotion/react @emotion/styled
+npm install axios
+
+*********************** EJECUTAR PROGRAMA **************************************
+npm start
+
+
+
+
+
+
+******************************ALTERNATIVA A FLASK --> FASTAPI ***********************************
+https://fastapi.tiangolo.com/
