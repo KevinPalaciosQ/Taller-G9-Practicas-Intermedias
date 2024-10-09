@@ -12,13 +12,15 @@
 | 3   | [Rivaldo Alexander Tojín Ixcotoyac](https://github.com/rivalTj7)        | 201900956 |
 | 4   | [Josué Daniel Rojché García](https://github.com/DanielGarcia-201901103) | 201901103 |
 | 5   | [Kevin Estuardo Palacios Quiñonez](https://github.com/KevinPalaciosQ)   | 201902278 |
-| 6   | [Marcos Geovani Josías Pérez Secay](https://github.com/)                | 201903878 |
-| 7   | [Gerson Emerson Ordoñez Tucubal](https://github.com/)                   | 202004060 |
+| 6   | [Marcos Geovani Josías Pérez Secay](https://github.com/JosiasP3312)     | 201903878 |
+| 7   | [Gerson Emerson Ordoñez Tucubal](https://github.com/Emerson-O)          | 202004060 |
 
-# Ejemplos 📖
+# Ejemplos 💭
 
-[1. Assembler Hello Word!👋😊](./Assembler/hello.s)
+[1. Instalación Raspbian 🫐](./Instalation/README.md)
 
-[2. Sum Digits ➕](./Assembler/sum_digit.s)
+[2. Assembler Hello Word!👋😊](./Assembler/hello.s)
 
-[3. Servidor 🌐](./Documentación/ManualUsuario.md)
+[3. Sum Digits ➕](./Assembler/sum_digit.s)
+
+[4. Servidor 🌐](./Documentación/ManualUsuario.md)
