@@ -54,9 +54,7 @@ export default class LoginComponent {
         username: email,
         password: password,
       };
-
       await this._authService.login(doby);
-
       toast.success('Hola nuevamente');
       this._router.navigateByUrl('/tasks');
     } catch (error) {
